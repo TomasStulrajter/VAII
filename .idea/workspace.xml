@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d89121f-9a71-4077-a21e-68f0ce62d8df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../VAII---semestestralna-praca" />
+  </component>
+  <component name="ProjectId" id="1j0NUsUCrKip9ODxVVyRGOMMYeT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d89121f-9a71-4077-a21e-68f0ce62d8df" name="Default Changelist" comment="" />
+      <created>1602937068813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602937068813</updated>
+      <workItem from="1602937074935" duration="28510000" />
+      <workItem from="1603108997138" duration="8910000" />
+      <workItem from="1603301459651" duration="2041000" />
+      <workItem from="1603303669372" duration="50000" />
+      <workItem from="1603303738062" duration="16159000" />
+      <workItem from="1603353695115" duration="4537000" />
+      <workItem from="1603358304789" duration="3167000" />
+      <workItem from="1603373582432" duration="367000" />
+      <workItem from="1603373968256" duration="35000" />
+      <workItem from="1603374004688" duration="219000" />
+      <workItem from="1603374241764" duration="220000" />
+      <workItem from="1603374470882" duration="80000" />
+      <workItem from="1603381832325" duration="42000" />
+      <workItem from="1603381881797" duration="950000" />
+      <workItem from="1605624538332" duration="944000" />
+      <workItem from="1605628541803" duration="313000" />
+      <workItem from="1634477509132" duration="641000" />
+      <workItem from="1634493054728" duration="13458000" />
+      <workItem from="1634537972209" duration="7495000" />
+      <workItem from="1634661778878" duration="786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../VAII---semestestralna-praca" />
+      <path value="$PROJECT_DIR$/../VAII-semestestralna-praca" />
+    </ignored-roots>
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1605624724055">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1605624724055" />
+    <state x="586" y="133" width="438" height="527" key="FileChooserDialogImpl" timestamp="1605628711385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="133" width="438" height="527" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605628711385" />
+    <state x="613" y="310" key="Github.ShareDialog" timestamp="1603374336735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="613" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603374336735" />
+    <state x="369" y="135" key="NewPhpClassDialog" timestamp="1605624644624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="369" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1605624644624" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1605624600306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1605624600306" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1603374248057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603374248057" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603373673245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603373673245" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1603314827256">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603314827256" />
+  </component>
+</project>

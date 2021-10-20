@@ -1,0 +1,180 @@
+/* Style for MAIN PAGE */
+p.main
+{
+    color: white;
+    font-family: Calibri;
+}
+
+body.main
+{
+    background-image: url("pozadie.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1.main
+{
+    color: #adb5bd;
+    font-family: Arial;
+    font-weight: bold;
+    padding: 10px;
+}
+
+h1.main ~ p.main
+{
+    font-size: large;
+    padding-left: 15px;
+}
+
+.col-md-4 p
+{
+    padding: 30px;
+    margin: 25px;
+}
+
+#prvyStlpec
+{
+    border-style: ridge;
+    border-color: yellow;
+}
+
+#spodnyLink:link {
+    color: orange;
+}
+
+#spodnyLink:visited {
+    color: wheat;
+}
+
+#spodnyLink:hover {
+    color: orangered;
+}
+
+#spodnyLink:active {
+    color: wheat;
+}
+
+.col-md-4 img
+{
+    width: 100%;
+}
+
+/* Style for STATISTICS PAGE */
+p.stats
+{
+    color: white;
+    font-family: Calibri;
+    align-items: center;
+}
+
+body.stats
+{
+    background-image: url("pozadie.png");
+    background-repeat: repeat-y;
+    background-size: contain;
+}
+
+h1.stats
+{
+    color: #adb5bd;
+    font-family: Arial;
+    font-weight: bold;
+    padding: 10px;
+}
+
+h1.stats ~ p.stats
+{
+    font-size: large;
+    padding-left: 15px;
+}
+
+h3.stats
+{
+    color: #adb5bd;
+    font-family: Calibri;
+    padding: 7px;
+    text-align: center;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon
+{
+    filter: invert(100%);
+}
+
+.nav-link
+{
+    color: black;
+}
+
+.napoveda
+{
+    color: white;
+    text-align: center;
+}
+
+div > p.stats
+{
+    font-size: large;
+    color: white;
+    text-shadow: 1px 0 0 black, 0 -1px 0 black, 0 1px 0 black, -1px 0 0 black;
+}
+
+.navbar-brand
+{
+    text-decoration: underline;
+}
+
+div img.stats
+{
+    width: 50%;
+    margin-left: 25%;
+}
+
+
+/* Style for FAQ PAGE */
+p.faq
+{
+    color: white;
+    font-family: Calibri;
+    align-items: center;
+}
+
+body.faq
+{
+    background-image: url("pozadie.png");
+    background-size: cover;
+}
+
+h1.faq
+{
+    color: #adb5bd;
+    font-family: Arial;
+    font-weight: bold;
+    padding: 10px;
+}
+
+h1.faq ~ p.faq
+{
+    font-size: large;
+    padding-left: 15px;
+}
+
+.card
+{
+    float: left;
+    color: white;
+    background-color: black;
+    margin: 10px;
+}
+
+a.faq
+{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+
+hr
+{
+    border-top: 1px solid white;
+}
